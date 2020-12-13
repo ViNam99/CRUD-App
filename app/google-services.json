@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "856750925119",
+    "project_id": "android-5b8b3",
+    "storage_bucket": "android-5b8b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856750925119:android:652369ab1350b5611bdf8a",
+        "android_client_info": {
+          "package_name": "com.example.vinam_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856750925119-7e6q77h17bn4k53k27ei842kfe592345.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ5atDPl_3KQK17bwoScZpwngcfP2wWRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856750925119-7e6q77h17bn4k53k27ei842kfe592345.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
